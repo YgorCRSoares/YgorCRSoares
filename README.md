@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YgorCRSoares!
 - 👀 I’m interested in programming in general!
-- 🌱 I’m currently learning python & javascript
+- 🌱 I’m currently learning TypeScript, python, JavaScript, C#
 - 💞️ I’m looking to collaborate in everything where I can improve my skills 🤣
 - 📫 How to reach me: [Ygor Linkedin](https://www.linkedin.com/in/ygor-soares/)
 - ⚡ Fun fact: I'm a salesperson, musician, I was recording albums for local bands
